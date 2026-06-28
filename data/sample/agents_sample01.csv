@@ -1,0 +1,6 @@
+id,name,type,country,sector,notes
+1,Empresa Ejemplo SA de CV,company,Mexico,Energy,Registro ficticio para prueba metodológica
+2,Juan Perez Lopez,person,Mexico,Public sector,Nombre ficticio para prueba metodológica
+3,Servicios Corporativos del Norte,company,Mexico,Consulting,Registro ficticio para prueba metodológica
+4,Inversiones del Golfo Ltd,company,Mexico,Finance,Nombre ficticio con forma corporativa
+5,Maria Gonzalez Ramirez,person,Mexico,Private sector,Nombre ficticio para prueba metodológica
